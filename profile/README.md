@@ -30,12 +30,5 @@ O **App Obra** é uma ferramenta para engenheiros, arquitetos e equipes de obra 
 
 | Membro | Perfil |
 | --- | --- |
-| viniciussantiagoplinio-collab | [@viniciussantiagoplinio-collab](https://github.com/viniciussantiagoplinio-collab) |
+| viniciussantiagoplinio-collab | [@0Plini0](https://github.com/viniciussantiagoplinio-collab) |
 | engdaniloplinio-ui | [@engdaniloplinio-ui](https://github.com/engdaniloplinio-ui) |
-
-## 📚 Repositórios
-
-| Repositório | Acesso | Descrição |
-| --- | --- | --- |
-| [App-OBRA/app-obra](https://github.com/App-OBRA/app-obra) | 🔒 Privado · membros da organização | Aplicativo para importar modelos IFC, planejar etapas e acompanhar a execução da obra. |
-| [.github](https://github.com/App-OBRA/.github) | 🌐 Público | Perfil e materiais públicos da organização App-OBRA. |
